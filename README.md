@@ -30,4 +30,4 @@ This project is a browser-based Rock Paper Scissors game where the player compet
 
 🌐 Live Demo
 
-"Play the Game" (https://yashxdev52.github.io/rock-paper-scissor/)
+"Play the Game" (https://yashxdev52.github.io/Rock-Paper-Scissor/)
